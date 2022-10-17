@@ -186,7 +186,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../public/images/sansa2.png');
+       /* background: url('../images/sansa2.png');*/
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
